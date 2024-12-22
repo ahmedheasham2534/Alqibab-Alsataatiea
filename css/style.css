@@ -755,6 +755,11 @@ ul.navbar-nav > li.active > a {
   width: 150px;
   height: 100px;
 }
+@media (max-width: 767px) {
+  #landing-logo{
+    margin-left: 80px;
+  }
+}
 /* header right */
 .header-right {
   float: right;
